@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"Welcome to my basic site!","title":"Home"},{"location":"page1/","text":"This is page1","title":"Page1"},{"location":"page2/","text":"This is page2","title":"Page2"}]}
