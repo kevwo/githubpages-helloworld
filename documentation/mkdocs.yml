@@ -1,0 +1,7 @@
+site_name: kevinwo-test mkdocs page
+nav:
+    - Home: 'index.md'
+    - Introduction:
+        - Page1: 'page1.md'
+        - Page2: 'page2.md'
+theme: readthedocs
